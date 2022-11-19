@@ -4,8 +4,8 @@ https://www.zero2prod.com/
 
 * Rust
 * Docker
+* PostgreSQL client
 * SQLx CLI
-  `cargo install --version="~0.6" sqlx-cli --no-default-features --features rustls,postgres`
 
 ## Usage
 
